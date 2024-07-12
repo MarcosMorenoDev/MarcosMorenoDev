@@ -2,7 +2,7 @@
 - 👀 I’m interested in: A full time job as a frontend web developer.
 - 🌱 I’m currently learning: React + Java & Springboot!
 - 📚 Proficient enough in English.
-- 📫 How to reach me: Via my public email (you can find it in my profile)!
+- 📫 How to reach me: Check my portfolio website (you can find it in my profile description)!
 - 😄 Pronouns: he/him.
   
 <!---
