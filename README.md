@@ -2,7 +2,7 @@
 - 👀 I’m interested in: A full time job as a frontend web developer.
 - 🌱 I’m currently learning: JS & React + C# & .NET.
 - 📚 Proficient enough in English.
-- 📫 How to reach me: Check my portfolio website (you can find it in my profile description)!
+- 📫 How to reach me: Check my portfolio website (you can find it in my profile description and/or LinkedIn profile)!
 - 😄 Pronouns: he/him.
   
 <!---
